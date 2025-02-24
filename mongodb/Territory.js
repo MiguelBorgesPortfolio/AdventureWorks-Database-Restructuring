@@ -1,0 +1,11 @@
+﻿db.Territory.insert({_id:1, stSalesTerritoryRegion:"Northwest", stSalesTerritoryCountry:"United States", stSalesTerritoryGroup:"North America"});
+db.Territory.insert({_id:2, stSalesTerritoryRegion:"Northeast", stSalesTerritoryCountry:"United States", stSalesTerritoryGroup:"North America"});
+db.Territory.insert({_id:3, stSalesTerritoryRegion:"Central", stSalesTerritoryCountry:"United States", stSalesTerritoryGroup:"North America"});
+db.Territory.insert({_id:4, stSalesTerritoryRegion:"Southwest", stSalesTerritoryCountry:"United States", stSalesTerritoryGroup:"North America"});
+db.Territory.insert({_id:5, stSalesTerritoryRegion:"Southeast", stSalesTerritoryCountry:"United States", stSalesTerritoryGroup:"North America"});
+db.Territory.insert({_id:6, stSalesTerritoryRegion:"Canada", stSalesTerritoryCountry:"Canada", stSalesTerritoryGroup:"North America"});
+db.Territory.insert({_id:7, stSalesTerritoryRegion:"France", stSalesTerritoryCountry:"France", stSalesTerritoryGroup:"Europe"});
+db.Territory.insert({_id:8, stSalesTerritoryRegion:"Germany", stSalesTerritoryCountry:"Germany", stSalesTerritoryGroup:"Europe"});
+db.Territory.insert({_id:9, stSalesTerritoryRegion:"Australia", stSalesTerritoryCountry:"Australia", stSalesTerritoryGroup:"Pacific"});
+db.Territory.insert({_id:10, stSalesTerritoryRegion:"United Kingdom", stSalesTerritoryCountry:"United Kingdom", stSalesTerritoryGroup:"Europe"});
+db.Territory.insert({_id:11, stSalesTerritoryRegion:"NA", stSalesTerritoryCountry:"NA", stSalesTerritoryGroup:"NA"});
